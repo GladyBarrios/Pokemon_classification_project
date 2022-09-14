@@ -13,7 +13,7 @@ by: Glady Barrios
 
 
 ***
-[[Project Description](#project_description)]
+[[Project Goals](#project_Goals)]
 [[Project Planning](#planning)]
 [[Key Findings](#findings)]
 [[Data Dictionary](#dictionary)]
@@ -26,7 +26,12 @@ ___
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vR19fsVfxHvzjrp0kSMlzHlmyU0oeTTAcnTUT9dNe4wAEXv_2WJNViUa9qzjkvcpvkFeUCyatccINde/pub?w=1389&amp;h=410">
 
-## <a name="project_description"></a>Project Description:
+## <a name="project_Goals"></a>Project Goal:
+
+My Goal is to use Classification models to determine a new pokemon's status.
+
+In this project I will explore the diffrent variables that lead to a pokemons status. I will analize the data from current pokemon to determine the best classification model to predict a pokemons status. I will do this by going through the data science pipeline by using data aquisition, data exploration, statistical models and ML classification models and end it off buy reviewing my conclusions, findings, and recomendations.
+
 [[Back to top](#top)]
 
 ***
