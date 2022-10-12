@@ -99,7 +99,7 @@ As people discover new pokemon
 
 *********************
 
-## <a name="explore"></a>Data Exploration:
+## <img src="3.png" alt="drawing" width="600"/>:
 [[Back to top](#top)]
 - Python files used for exploration:
     - wrangle.py 
@@ -112,7 +112,7 @@ As people discover new pokemon
 
 ***
 
-## <a name="stats"></a>Statistical Analysis
+## <img src="4.png" alt="drawing" width="600"/>
 [[Back to top](#top)]
 
 ### Stats Test 1: ANOVA Test: One Way
