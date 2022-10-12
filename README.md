@@ -88,7 +88,7 @@ As people discover new pokemon
 
 ***
 
-## <a name="wrangle"></a>Data Acquisition and Preparation
+## <img src="2.png" alt="drawing" width="600"/>
 [[Back to top](#top)]
 
 ![]()
