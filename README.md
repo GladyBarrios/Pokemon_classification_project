@@ -27,7 +27,9 @@ by: Glady Barrios
 ___
 
 
-## <a name="project_Goals"></a>Project Goal:
+## <img src="1.png" alt="drawing" width="600"/>:
+
+
 
 My Goal is to use Classification models to determine a new pokemon's status.
 
