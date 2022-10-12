@@ -1,3 +1,5 @@
+<img src="pokemon_pic.png" alt="drawing" width="550"/>
+
 
 
 # <a name="top"></a>Pokemon_classification_project
